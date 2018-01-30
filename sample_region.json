@@ -1,0 +1,15 @@
+{
+  "name": "UK",
+  "climate_conditions":{
+    "Tmax":{
+      "2018":{
+        "Jan":2.34,
+        "Feb": 3.54
+      }
+    },
+    "Tmin":[],
+    "Tmean":[],
+    "Sunshine":[],
+    "Rainfall": []
+  }
+}

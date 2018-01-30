@@ -1,0 +1,5 @@
+{
+  "regions":["UK", "England", "Wales", "Scotland"],
+  "weather_conditions": ["Tmax/date", "Tmin/date", "Tmean/date", "Sunshine/date", "Rainfall/date"],
+  "url": "https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/"
+}
